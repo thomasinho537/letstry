@@ -1,1 +1,1 @@
-console.log("ahojky dobry den");
+console.log("voala");
