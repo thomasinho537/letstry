@@ -1,1 +1,1 @@
-console.log("ahojky");
+console.log("ahojky nazdar");
